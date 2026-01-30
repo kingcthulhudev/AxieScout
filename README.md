@@ -10,7 +10,7 @@ AxieScout is a personal project for monitoring Axie Infinity prices, traits, and
 This project is for personal use and can be run locally. Clone the repository to your machine:
 
 Copy code
-```bash git clone https://github.com/reyhanlee/AxieScout.git cd AxieScout python main.py```
+```bash git clone https://github.com/Kingcthulhu/AxieScout.git cd AxieScout python main.py```
 
 # License
 This project is licensed under the MIT License – see the LICENSE file for details.
